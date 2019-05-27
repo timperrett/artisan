@@ -1,7 +1,7 @@
 [package]
 authors = ["Timothy Perrett <hello@timperrett.com>"]
 description = "A client library for the buildkite.com API"
-documentation = "https://docs.rs/uuid"
+documentation = "https://docs.rs/artisan"
 edition = "2018"
 exclude = [
     ".github/**",
